@@ -5,16 +5,16 @@
       "lastName": "Rossi",
       "address": "Piazza del Duomo 1",
       "city": "Firenze",
-      "cap": "50122"
-      "province": "FI"
+      "cap": "50122",
+      "provinceId": "FI"
     },
     {
       "firstName": "Luca",
       "lastName": "Bianchi",
       "address": "Piazza del Mercato Centrale 1",
       "city": "Firenze",
-      "cap": "50123"
-      "province": "FI"
+      "cap": "50123",
+      "provinceId": "FI"
     }
   ],
   "provinces": [

@@ -1,0 +1,572 @@
+{
+  "users": [
+    {
+      "firstName": "Mario",
+      "lastName": "Rossi",
+      "address": "Piazza del Duomo 1",
+      "city": "Firenze",
+      "cap": "50122"
+      "province": "FI"
+    },
+    {
+      "firstName": "Luca",
+      "lastName": "Bianchi",
+      "address": "Piazza del Mercato Centrale 1",
+      "city": "Firenze",
+      "cap": "50123"
+      "province": "FI"
+    }
+  ],
+  "provinces": [
+    {
+      "name": "Agrigento",
+      "id": "AG",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Alessandria",
+      "id": "AL",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Ancona",
+      "id": "AN",
+      "region": "Marche"
+    },
+    {
+      "name": "Arezzo",
+      "id": "AR",
+      "region": "Toscana"
+    },
+    {
+      "name": "Ascoli Piceno",
+      "id": "AP",
+      "region": "Marche"
+    },
+    {
+      "name": "Asti",
+      "id": "AT",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Avellino",
+      "id": "AV",
+      "region": "Campania"
+    },
+    {
+      "name": "Bari",
+      "id": "BA",
+      "region": "Puglia"
+    },
+    {
+      "name": "Barletta-Andria-Trani",
+      "id": "BT",
+      "region": "Puglia"
+    },
+    {
+      "name": "Belluno",
+      "id": "BL",
+      "region": "Veneto"
+    },
+    {
+      "name": "Benevento",
+      "id": "BN",
+      "region": "Campania"
+    },
+    {
+      "name": "Bergamo",
+      "id": "BG",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Biella",
+      "id": "BI",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Bologna",
+      "id": "BO",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Bolzano/Bozen",
+      "id": "BZ",
+      "region": "Trentino-Alto Adige/Südtirol"
+    },
+    {
+      "name": "Brescia",
+      "id": "BS",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Brindisi",
+      "id": "BR",
+      "region": "Puglia"
+    },
+    {
+      "name": "Cagliari",
+      "id": "CA",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Caltanissetta",
+      "id": "CL",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Campobasso",
+      "id": "CB",
+      "region": "Molise"
+    },
+    {
+      "name": "Carbonia-Iglesias",
+      "id": "CI",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Caserta",
+      "id": "CE",
+      "region": "Campania"
+    },
+    {
+      "name": "Catania",
+      "id": "CT",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Catanzaro",
+      "id": "CZ",
+      "region": "Calabria"
+    },
+    {
+      "name": "Chieti",
+      "id": "CH",
+      "region": "Abruzzo"
+    },
+    {
+      "name": "Como",
+      "id": "CO",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Cosenza",
+      "id": "CS",
+      "region": "Calabria"
+    },
+    {
+      "name": "Cremona",
+      "id": "CR",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Crotone",
+      "id": "KR",
+      "region": "Calabria"
+    },
+    {
+      "name": "Cuneo",
+      "id": "CN",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Enna",
+      "id": "EN",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Fermo",
+      "id": "FM",
+      "region": "Marche"
+    },
+    {
+      "name": "Ferrara",
+      "id": "FE",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Firenze",
+      "id": "FI",
+      "region": "Toscana"
+    },
+    {
+      "name": "Foggia",
+      "id": "FG",
+      "region": "Puglia"
+    },
+    {
+      "name": "Forlì-Cesena",
+      "id": "FC",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Frosinone",
+      "id": "FR",
+      "region": "Lazio"
+    },
+    {
+      "name": "Genova",
+      "id": "GE",
+      "region": "Liguria"
+    },
+    {
+      "name": "Gorizia",
+      "id": "GO",
+      "region": "Friuli-Venezia Giulia"
+    },
+    {
+      "name": "Grosseto",
+      "id": "GR",
+      "region": "Toscana"
+    },
+    {
+      "name": "Imperia",
+      "id": "IM",
+      "region": "Liguria"
+    },
+    {
+      "name": "Isernia",
+      "id": "IS",
+      "region": "Molise"
+    },
+    {
+      "name": "L'Aquila",
+      "id": "AQ",
+      "region": "Abruzzo"
+    },
+    {
+      "name": "La Spezia",
+      "id": "SP",
+      "region": "Liguria"
+    },
+    {
+      "name": "Latina",
+      "id": "LT",
+      "region": "Lazio"
+    },
+    {
+      "name": "Lecce",
+      "id": "LE",
+      "region": "Puglia"
+    },
+    {
+      "name": "Lecco",
+      "id": "LC",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Livorno",
+      "id": "LI",
+      "region": "Toscana"
+    },
+    {
+      "name": "Lodi",
+      "id": "LO",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Lucca",
+      "id": "LU",
+      "region": "Toscana"
+    },
+    {
+      "name": "Macerata",
+      "id": "MC",
+      "region": "Marche"
+    },
+    {
+      "name": "Mantova",
+      "id": "MN",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Massa-Carrara",
+      "id": "MS",
+      "region": "Toscana"
+    },
+    {
+      "name": "Matera",
+      "id": "MT",
+      "region": "Basilicata"
+    },
+    {
+      "name": "Medio Campidano",
+      "id": "VS",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Messina",
+      "id": "ME",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Milano",
+      "id": "MI",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Modena",
+      "id": "MO",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Monza e della Brianza",
+      "id": "MB",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Napoli",
+      "id": "NA",
+      "region": "Campania"
+    },
+    {
+      "name": "Novara",
+      "id": "NO",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Nuoro",
+      "id": "NU",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Ogliastra",
+      "id": "OG",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Olbia-Tempio",
+      "id": "OT",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Oristano",
+      "id": "OR",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Padova",
+      "id": "PD",
+      "region": "Veneto"
+    },
+    {
+      "name": "Palermo",
+      "id": "PA",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Parma",
+      "id": "PR",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Pavia",
+      "id": "PV",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Perugia",
+      "id": "PG",
+      "region": "Umbria"
+    },
+    {
+      "name": "Pesaro e Urbino",
+      "id": "PU",
+      "region": "Marche"
+    },
+    {
+      "name": "Pescara",
+      "id": "PE",
+      "region": "Abruzzo"
+    },
+    {
+      "name": "Piacenza",
+      "id": "PC",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Pisa",
+      "id": "PI",
+      "region": "Toscana"
+    },
+    {
+      "name": "Pistoia",
+      "id": "PT",
+      "region": "Toscana"
+    },
+    {
+      "name": "Pordenone",
+      "id": "PN",
+      "region": "Friuli-Venezia Giulia"
+    },
+    {
+      "name": "Potenza",
+      "id": "PZ",
+      "region": "Basilicata"
+    },
+    {
+      "name": "Prato",
+      "id": "PO",
+      "region": "Toscana"
+    },
+    {
+      "name": "Ragusa",
+      "id": "RG",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Ravenna",
+      "id": "RA",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Reggio di Calabria",
+      "id": "RC",
+      "region": "Calabria"
+    },
+    {
+      "name": "Reggio nell'Emilia",
+      "id": "RE",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Rieti",
+      "id": "RI",
+      "region": "Lazio"
+    },
+    {
+      "name": "Rimini",
+      "id": "RN",
+      "region": "Emilia-Romagna"
+    },
+    {
+      "name": "Roma",
+      "id": "RM",
+      "region": "Lazio"
+    },
+    {
+      "name": "Rovigo",
+      "id": "RO",
+      "region": "Veneto"
+    },
+    {
+      "name": "Salerno",
+      "id": "SA",
+      "region": "Campania"
+    },
+    {
+      "name": "Sassari",
+      "id": "SS",
+      "region": "Sardegna"
+    },
+    {
+      "name": "Savona",
+      "id": "SV",
+      "region": "Liguria"
+    },
+    {
+      "name": "Siena",
+      "id": "SI",
+      "region": "Toscana"
+    },
+    {
+      "name": "Siracusa",
+      "id": "SR",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Sondrio",
+      "id": "SO",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Taranto",
+      "id": "TA",
+      "region": "Puglia"
+    },
+    {
+      "name": "Teramo",
+      "id": "TE",
+      "region": "Abruzzo"
+    },
+    {
+      "name": "Terni",
+      "id": "TR",
+      "region": "Umbria"
+    },
+    {
+      "name": "Torino",
+      "id": "TO",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Trapani",
+      "id": "TP",
+      "region": "Sicilia"
+    },
+    {
+      "name": "Trento",
+      "id": "TN",
+      "region": "Trentino-Alto Adige/Südtirol"
+    },
+    {
+      "name": "Treviso",
+      "id": "TV",
+      "region": "Veneto"
+    },
+    {
+      "name": "Trieste",
+      "id": "TS",
+      "region": "Friuli-Venezia Giulia"
+    },
+    {
+      "name": "Udine",
+      "id": "UD",
+      "region": "Friuli-Venezia Giulia"
+    },
+    {
+      "name": "Valle d'Aosta/Vallée d'Aoste",
+      "id": "AO",
+      "region": "Valle d'Aosta/Vallée d'Aoste"
+    },
+    {
+      "name": "Varese",
+      "id": "VA",
+      "region": "Lombardia"
+    },
+    {
+      "name": "Venezia",
+      "id": "VE",
+      "region": "Veneto"
+    },
+    {
+      "name": "Verbano-Cusio-Ossola",
+      "id": "VB",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Vercelli",
+      "id": "VC",
+      "region": "Piemonte"
+    },
+    {
+      "name": "Verona",
+      "id": "VR",
+      "region": "Veneto"
+    },
+    {
+      "name": "Vibo Valentia",
+      "id": "VV",
+      "region": "Calabria"
+    },
+    {
+      "name": "Vicenza",
+      "id": "VI",
+      "region": "Veneto"
+    },
+    {
+      "name": "Viterbo",
+      "id": "VT",
+      "region": "Lazio"
+    }
+  ]
+}

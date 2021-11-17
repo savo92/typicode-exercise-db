@@ -5,6 +5,7 @@
       "name": "Lorenzo",
       "surname": "Savini",
       "nickname": "savo",
+      "img": "https://www.develer.com/wp-content/uploads/2019/06/savini.jpg",
       "teams": [
         {"name": "NextRoll"}
       ],
@@ -18,9 +19,10 @@
       "name": "Alessandro",
       "surname": "Mamusa",
       "nickname": "alesardo",
+      "img": "https://www.develer.com/wp-content/uploads/2019/04/mamusa.jpg",
       "teams": [ 
-          {"name": "NextRoll"},
-          {"name": "Caligola"}
+        {"name": "NextRoll"},
+        {"name": "Caligola"}
       ],
       "tags": [ 
         {"name": "hobby:trekking"}

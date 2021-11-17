@@ -1,167 +1,30 @@
 {
   "users": [
     {
-      "firstName": "Mario",
-      "lastName": "Rossi",
-      "address": "Piazza del Duomo 1",
-      "city": "Firenze",
-      "cap": "50122",
-      "provinceId": "FI"
+      "id": "alkijsalkjs",
+      "name": "Lorenzo",
+      "surname": "Savini",
+      "nickname": "savo",
+      "teams": [
+        {"name": "NextRoll"}
+      ],
+      "tags": [ 
+        {"name": "hobby:trekking"},
+        {"name": "hobby:volontariato"}
+      ]
     },
     {
-      "firstName": "Luca",
-      "lastName": "Bianchi",
-      "address": "Piazza del Mercato Centrale 1",
-      "city": "Firenze",
-      "cap": "50123",
-      "provinceId": "FI"
-    }
-  ],
-  "provinces": [
-    {
-      "name": "Agrigento",
-      "id": "AG",
-      "region": "Sicilia"
-    },
-    {
-      "name": "Alessandria",
-      "id": "AL",
-      "region": "Piemonte"
-    },
-    {
-      "name": "Ancona",
-      "id": "AN",
-      "region": "Marche"
-    },
-    {
-      "name": "Arezzo",
-      "id": "AR",
-      "region": "Toscana"
-    },
-    {
-      "name": "Ascoli Piceno",
-      "id": "AP",
-      "region": "Marche"
-    },
-    {
-      "name": "Asti",
-      "id": "AT",
-      "region": "Piemonte"
-    },
-    {
-      "name": "Avellino",
-      "id": "AV",
-      "region": "Campania"
-    },
-    {
-      "name": "Bari",
-      "id": "BA",
-      "region": "Puglia"
-    },
-    {
-      "name": "Barletta-Andria-Trani",
-      "id": "BT",
-      "region": "Puglia"
-    },
-    {
-      "name": "Belluno",
-      "id": "BL",
-      "region": "Veneto"
-    },
-    {
-      "name": "Benevento",
-      "id": "BN",
-      "region": "Campania"
-    },
-    {
-      "name": "Bergamo",
-      "id": "BG",
-      "region": "Lombardia"
-    },
-    {
-      "name": "Biella",
-      "id": "BI",
-      "region": "Piemonte"
-    },
-    {
-      "name": "Bologna",
-      "id": "BO",
-      "region": "Emilia-Romagna"
-    },
-    {
-      "name": "Bolzano/Bozen",
-      "id": "BZ",
-      "region": "Trentino-Alto Adige/Südtirol"
-    },
-    {
-      "name": "Brescia",
-      "id": "BS",
-      "region": "Lombardia"
-    },
-    {
-      "name": "Brindisi",
-      "id": "BR",
-      "region": "Puglia"
-    },
-    {
-      "name": "Cagliari",
-      "id": "CA",
-      "region": "Sardegna"
-    },
-    {
-      "name": "Caltanissetta",
-      "id": "CL",
-      "region": "Sicilia"
-    },
-    {
-      "name": "Campobasso",
-      "id": "CB",
-      "region": "Molise"
-    },
-    {
-      "name": "Carbonia-Iglesias",
-      "id": "CI",
-      "region": "Sardegna"
-    },
-    {
-      "name": "Caserta",
-      "id": "CE",
-      "region": "Campania"
-    },
-    {
-      "name": "Catania",
-      "id": "CT",
-      "region": "Sicilia"
-    },
-    {
-      "name": "Catanzaro",
-      "id": "CZ",
-      "region": "Calabria"
-    },
-    {
-      "name": "Chieti",
-      "id": "CH",
-      "region": "Abruzzo"
-    },
-    {
-      "name": "Como",
-      "id": "CO",
-      "region": "Lombardia"
-    },
-    {
-      "name": "Cosenza",
-      "id": "CS",
-      "region": "Calabria"
-    },
-    {
-      "name": "Cremona",
-      "id": "CR",
-      "region": "Lombardia"
-    },
-    {
-      "name": "Firenze",
-      "id": "FI",
-      "region": "Toscana"
+      "id": "asdasdaioh",
+      "name": "Alessandro",
+      "surname": "Mamusa",
+      "nickname": "alesardo",
+      "teams": [ 
+          {"name": "NextRoll"},
+          {"name": "Caligola"}
+      ],
+      "tags": [ 
+        {"name": "hobby:trekking"}
+      ]
     }
   ]
 }
